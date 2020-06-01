@@ -1,7 +1,7 @@
 --*===============*=================*--
 -- Somador Completo para 16 bits
 -- OAC 
--- 09/09/2106
+-- 09/09/2019
 -- Utiliza RippleyCarryAdder_01bit_.vhdl
 -- Portas lógicas com latência de 4ns
 --*===============*=================*--
