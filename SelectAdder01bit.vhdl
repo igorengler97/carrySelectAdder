@@ -1,7 +1,7 @@
 --*===============*=================*--
 -- Somador Completo para 01 bit
 -- OAC 
--- 09/09/2106
+-- 09/09/2019
 -- Rippley Carry Adder
 -- Portas lógicas com latência de 4ns 
 -- Max 4 input
